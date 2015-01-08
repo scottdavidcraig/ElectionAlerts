@@ -1,7 +1,7 @@
 <?php
 
 	// Configuration 
-    $to = "name@example.com"; // Your email address. 
+    $to = "scott@electionalerts.org"; // Your email address. 
     $subject = "New trial signup via the Signup Landing Page"; // Email subject line 
     
     $from = $_REQUEST['email'];
