@@ -2,7 +2,7 @@
 
 	// Configuration 
     $to = "scott@electionalerts.org"; // Your email address. 
-    $subject = "New signup via the Signup Landing Page"; // Email subject line 
+    $subject = "New signup"; // Email subject line 
     
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name']; 
