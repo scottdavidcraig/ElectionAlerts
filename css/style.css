@@ -349,6 +349,7 @@ License: GNU/GPL Version 2 or later. http://www.gnu.org/licenses/gpl.html
 		background: #FFF  url(../images/menu.png) no-repeat center center;
 		text-indent:-999999px;
         border: solid 2px #343434;
+        border-top: none;
 	}
 
 	.close { 
